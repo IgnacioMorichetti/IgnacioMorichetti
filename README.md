@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=41707A&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;React+%C2%B7+TypeScript+%C2%B7+Spring+Boot;Open+to+remote+roles+%C2%B7+Mendoza%2C+Argentina" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=41707A&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%C2%B7+TypeScript+%C2%B7+Spring+Boot;Open+to+remote+roles+%C2%B7+Mendoza%2C+Argentina" alt="Typing SVG" />
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imorichetti/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ignaciomorichetti123@gmail.com)
-[![Rastro](https://img.shields.io/badge/Rastro-Live%20project-2F6E66?style=for-the-badge&logo=vercel&logoColor=white)](https://rastro-vert.vercel.app)
+[![Rastro](https://img.shields.io/badge/Rastro-Live%20project-1f5c5a?style=for-the-badge&logo=vercel&logoColor=f7f5f0&labelColor=1e2a2f)](https://rastro-vert.vercel.app)
 
 </div>
 
