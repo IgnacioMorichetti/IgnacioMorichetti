@@ -16,7 +16,7 @@
 
 ## 👋 About me
 
-Software Development student at **UNCuyo–ITU** (graduating 2027) who likes building and shipping real products, front to back. I work across the stack — **React + TypeScript** on the front end, **Spring Boot + REST APIs** on the back end, with **SQL Server, MongoDB and Docker** on the infrastructure side.
+Software Development student at **UNCuyo–ITU** (graduating 2027) who likes building and shipping real products, front to back. I work across the stack — **React + TypeScript** on the front end, **Spring Boot + REST APIs** on the back end, with **SQL Server, MongoDB, PostgreSQL and Docker** on the infrastructure side. Lately I've been building complete products on **Next.js + Supabase**, from the database to the deploy.
 
 🌎 Based in Mendoza, Argentina — **open to remote roles**. Spanish (native) · English (C1).
 
@@ -37,6 +37,7 @@ Software Development student at **UNCuyo–ITU** (graduating 2027) who likes bui
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -47,6 +48,8 @@ Software Development student at **UNCuyo–ITU** (graduating 2027) who likes bui
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 **Cloud & Tools**
@@ -54,6 +57,7 @@ Software Development student at **UNCuyo–ITU** (graduating 2027) who likes bui
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 </div>
@@ -62,6 +66,11 @@ Software Development student at **UNCuyo–ITU** (graduating 2027) who likes bui
 
 ## 🚀 Featured Projects
 
+### 🧭 Rastro — Full-Stack · SaaS
+Lost-and-found software for organizations (airports, hotels, clubs, festivals). Two apps on one database: a **paid staff panel** (intake, claims, deliveries, reports) and a **free public web** where people search and claim what they lost. An **automatic matching engine** cross-references both sides and suggests matches. Shipped end to end in 14 planned phases, with a verification suite and a commercial landing page.
+`Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Supabase` · `Drizzle` · `Tailwind CSS` · `Vercel`
+🌐 [Live site](https://rastro-vert.vercel.app) · 🔒 Private repository
+
 ### 🔐 Inventario Seguro — Full-Stack
 Secure lab-equipment inventory system built in a 4-person Agile team. REST API with a **dual-database architecture (SQL Server + MongoDB)** and 17 passing unit & integration tests.
 `Spring Boot` · `React` · `TypeScript` · `Docker`
@@ -69,13 +78,22 @@ Secure lab-equipment inventory system built in a 4-person Agile team. REST API w
 
 ### 🏔️ Francisco Explora — Frontend
 Personal website for an adventure content creator. Dark aesthetic, clean UI, optimized performance. **Live in production** on a custom domain.
-`Astro` · `Tailwind CSS`
+`Astro` · `Tailwind CSS` · `Vercel`
 🌐 [Live site](https://franciscoexplora.com) · 🔗 [Code](https://github.com/IgnacioMorichetti/WEB-Francisco-Explora)
 
 ### 🚣 Parador Aventura — Frontend
-Single-page website for an adventure-tourism business. Responsive layouts, dark/light mode, interactive activity modals and Google Maps integration.
+Single-page website for an adventure-tourism business in Potrerillos, Mendoza. Responsive layouts, dark/light mode, interactive activity modals and Google Maps integration.
 `HTML` · `Tailwind CSS` · `JavaScript`
 🔗 [View repository](https://github.com/IgnacioMorichetti/parador-aventura)
+
+### 🎙️ Escucha — Desktop tool
+Offline voice assistant for Windows that runs in the background: say a program's name to open it (local speech recognition with **Vosk + Whisper**) or clap to launch Spotify. Starts on login.
+`Python` · `Vosk` · `faster-whisper`
+🔒 Private repository
+
+### ☕ More Java / Spring Boot
+- [ProyectoVuelosSpringBoot](https://github.com/IgnacioMorichetti/ProyectoVuelosSpringBoot) — flights management backend.
+- [SpringBoot-API-REST](https://github.com/IgnacioMorichetti/SpringBoot-API-REST) — REST API for people, books and authors.
 
 ---
 
