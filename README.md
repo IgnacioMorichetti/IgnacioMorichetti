@@ -71,6 +71,11 @@ Lost-and-found software for organizations (airports, hotels, clubs, festivals). 
 `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Supabase` · `Drizzle` · `Tailwind CSS` · `Vercel`
 🌐 [Live site](https://rastro-vert.vercel.app) · 🔒 Private repository
 
+<p align="center">
+  <img src="assets/rastro-busqueda.jpg" alt="Rastro public search page" width="49%" />
+  <img src="assets/rastro-organizaciones.jpg" alt="Rastro landing page for organizations" width="49%" />
+</p>
+
 ### 🔐 Inventario Seguro — Full-Stack
 Secure lab-equipment inventory system built in a 4-person Agile team. REST API with a **dual-database architecture (SQL Server + MongoDB)** and 17 passing unit & integration tests.
 `Spring Boot` · `React` · `TypeScript` · `Docker`
@@ -90,6 +95,17 @@ Single-page website for an adventure-tourism business in Potrerillos, Mendoza. R
 Offline voice assistant for Windows that runs in the background: say a program's name to open it (local speech recognition with **Vosk + Whisper**) or clap to launch Spotify. Starts on login.
 `Python` · `Vosk` · `faster-whisper`
 🔒 Private repository
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=IgnacioMorichetti&show_icons=true&hide_border=true&bg_color=00000000&title_color=41707A&text_color=8b949e&icon_color=2F6E66" />
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioMorichetti&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=41707A&text_color=8b949e" />
+
+</div>
 
 ---
 
