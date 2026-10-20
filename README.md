@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=41707A&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;React+%C2%B7+TypeScript+%C2%B7+Spring+Boot;AWS+Certified+%C2%B7+Open+to+remote+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=41707A&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;React+%C2%B7+TypeScript+%C2%B7+Spring+Boot;Open+to+remote+roles+%C2%B7+Mendoza%2C+Argentina" alt="Typing SVG" />
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imorichetti/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ignaciomorichetti123@gmail.com)
-[![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=orange)](https://www.linkedin.com/in/imorichetti/)
+[![Rastro](https://img.shields.io/badge/Rastro-Live%20project-2F6E66?style=for-the-badge&logo=vercel&logoColor=white)](https://rastro-vert.vercel.app)
 
 </div>
 
@@ -90,10 +90,6 @@ Single-page website for an adventure-tourism business in Potrerillos, Mendoza. R
 Offline voice assistant for Windows that runs in the background: say a program's name to open it (local speech recognition with **Vosk + Whisper**) or clap to launch Spotify. Starts on login.
 `Python` · `Vosk` · `faster-whisper`
 🔒 Private repository
-
-### ☕ More Java / Spring Boot
-- [ProyectoVuelosSpringBoot](https://github.com/IgnacioMorichetti/ProyectoVuelosSpringBoot) — flights management backend.
-- [SpringBoot-API-REST](https://github.com/IgnacioMorichetti/SpringBoot-API-REST) — REST API for people, books and authors.
 
 ---
 
